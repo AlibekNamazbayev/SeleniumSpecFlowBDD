@@ -1,0 +1,18 @@
+# Build files
+bin/
+obj/
+.vs/
+TestResults/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE and editor settings
+*.vscode/
+*.DS_Store
+
+# NuGet
+packages/
