@@ -5,6 +5,9 @@ obj/
 .vs/
 TestResults/
 
+# ignore generic files SpecFlow
+**/*.feature.cs
+
 # User-specific files
 =======
 ## Ignore Visual Studio temporary files, build results, and
